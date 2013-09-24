@@ -1,4 +1,4 @@
-blog
-====
+ewfuentes.github.com
+====================
 
-My Personal Blog
+Personal Blog
