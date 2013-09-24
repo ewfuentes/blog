@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2013-09-23T21:24:00Z</updated><entry><title>Hello World!</title><link href="/Hello-World.html" rel="alternate"></link><updated>2013-09-23T21:24:00Z</updated><author><name></name></author><id>tag:,2013-09-23:Hello-World.html</id><summary type="html">&lt;p&gt;Hi everyone!  This is my first attempt at a blog.  I hope to share
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Erick Fuentes</title><link href="http://erickfuent.es/" rel="alternate"></link><link href="http://erickfuent.es/feeds/misc.atom.xml" rel="self"></link><id>http://erickfuent.es/</id><updated>2013-09-23T21:24:00+02:00</updated><entry><title>Hello World!</title><link href="http://erickfuent.es/Hello-World.html" rel="alternate"></link><updated>2013-09-23T21:24:00+02:00</updated><author><name>Erick Fuentes</name></author><id>tag:erickfuent.es,2013-09-23:Hello-World.html</id><summary type="html">&lt;p&gt;Hi everyone!  This is my first attempt at a blog.  I hope to share
 some of what I've learned and some of my goals for myself.  Let me
 know if there is something you want me to talk more about and I can
 try to spend some time writing something out.&lt;/p&gt;
